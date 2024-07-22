@@ -14,10 +14,10 @@ th, td {
 }
 
 caption {
-    text-align: center;
     color: mediumpurple;
     font-weight: bold;
     padding: 10px;
+    caption-side: top;
 }
 
 tr:hover {background-color: lightcoral;}
