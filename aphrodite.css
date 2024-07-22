@@ -1,11 +1,13 @@
+body {
+    background-color: pink;
+}
+
+
 h1 {
     color: hotpink;
     text-align: center;
 }
 
-body {
-    background-color: pink;
-}
 
 table, th, td {
     border: 1px solid;
