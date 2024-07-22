@@ -1,8 +1,15 @@
 h1 {
-    color: pink;
+    color: hotpink;
     text-align: center;
 }
 
 table, th, td {
     border: 1px solid;
 }
+
+th, td {
+    padding: 10px;
+    text-align: center;
+}
+
+tr:hover {background-color: lightcoral;}
