@@ -13,6 +13,13 @@ th, td {
     text-align: center;
 }
 
+caption {
+    text-align: center;
+    color: mediumpurple;
+    font-weight: bold;
+    padding: 10px;
+}
+
 tr:hover {background-color: lightcoral;}
 
 .center {
