@@ -8,10 +8,6 @@ h1 {
     text-align: center;
 }
 
-h3 {
-    text-align: center;
-    color: darkorchid;
-}
 
 table, th, td {
     border: 1px solid;
@@ -32,8 +28,13 @@ caption {
     font-size: large;
 }
 
+h3 {
+    text-align: center;
+    color: darkorchid;
+}
+
 img {
-    align-content: center;
+    align-self: center;
 }
 
 tr:hover {background-color: lightcoral;}
