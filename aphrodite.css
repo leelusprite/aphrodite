@@ -34,8 +34,10 @@ h3 {
 }
 
 img {
-    align-self: center;
+    margin-left: auto;
+    margin-right: auto;
 }
+  
 
 tr:hover {background-color: lightcoral;}
 
